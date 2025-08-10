@@ -1,0 +1,70 @@
+[
+  {
+    "id": "forest",
+    "name": {
+      "uk": "Шепіт лісу",
+      "en": "Whispering Forest"
+    },
+    "description": {
+      "uk": "Спокійні звуки дерев, птахів та вітру серед густого лісу.",
+      "en": "Peaceful sounds of trees, birds, and wind in a dense forest."
+    },
+    "image": "images/forest.png",
+    "file": "https://cdn.jsdelivr.net/gh/Aporial/NatureSounds_database@main/audio/forest_birds.mp3",
+    "mainColor": "#c8c46d",
+    "accentColor": "#5b6439",
+    "sizeMB": 91,
+    "version": 1
+  },
+  {
+    "id": "campfire",
+    "name": {
+      "uk": "Нічне багаття",
+      "en": "Night Campfire"
+    },
+    "description": {
+      "uk": "Тріск вогню й затишне потріскування дров у нічній тиші.",
+      "en": "Crackling firewood and cozy flames in the quiet night."
+    },
+    "image": "images/campfire.png",
+    "file": "audio/forest_birds.mp3",
+    "mainColor": "#f8d89b",
+    "accentColor": "#e15a46",
+    "sizeMB": 91,
+    "version": 1
+  },
+  {
+    "id": "ocean",
+    "name": {
+      "uk": "Хвилі океану",
+      "en": "Ocean Waves"
+    },
+    "description": {
+      "uk": "Мірне прибоювання хвиль, що змиває тривоги.",
+      "en": "Rhythmic waves washing away worries."
+    },
+    "image": "images/ocean.png",
+    "file": "audio/forest_birds.mp3",
+    "mainColor": "#c2dccf",
+    "accentColor": "#498ba1",
+    "sizeMB": 91,
+    "version": 1
+  },
+  {
+    "id": "rain",
+    "name": {
+      "uk": "Затишний дощ",
+      "en": "Cozy Rain"
+    },
+    "description": {
+      "uk": "Легкий дощ за вікном створює атмосферу спокою та тепла.",
+      "en": "Gentle rain outside the window brings a sense of calm and warmth."
+    },
+    "image": "images/rain.png",
+    "file": "audio/forest_birds.mp3",
+    "mainColor": "#c7ced6",
+    "accentColor": "#929ca6",
+    "sizeMB": 91,
+    "version": 1
+  }
+]
