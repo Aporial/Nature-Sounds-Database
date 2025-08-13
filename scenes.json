@@ -702,7 +702,7 @@
     "version": 1
   },
   {
-    "id": "frogs_croaking_near_water",
+    "id": "frogs_croaking_near_water2",
     "name": {
       "uk": "Квакання жаб біля води",
       "en": "Frogs Croaking Near Water"
@@ -712,7 +712,7 @@
       "en": "Sounds of frogs croaking near a body of water"
     },
     "image": "images/frogs_croaking_near_water.webp",
-    "file": "https://cdn.jsdelivr.net/gh/noAporia/frogs_croaking_near_water@main/frogs_croaking_near_water.mp3",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/frogs_croaking_near_water2@main/frogs_croaking_near_water2.mp3",
     "mainColor": "#94a978",
     "accentColor": "#315f27",
     "category": "forestAndNature",
