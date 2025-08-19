@@ -3,11 +3,19 @@
     "id": "rain_and_fireplace_sounds",
     "name": {
       "uk": "Дощ і камін",
-      "en": "Rain and Fireplace Sounds"
+      "en": "Rain and Fireplace Sounds",
+      "es": "Lluvia y Sonidos de Chimenea",
+      "fr": "Pluie et Sons de Cheminée",
+      "de": "Regen- und Kamin-Geräusche",
+      "pt": "Chuva e Sons de Lareira"
     },
     "description": {
       "uk": "Поєднання дощу і теплих звуків каміна",
-      "en": "Combination of rain and warm fireplace sounds"
+      "en": "Combination of rain and warm fireplace sounds",
+      "es": "Combinación de lluvia y sonidos cálidos de chimenea",
+      "fr": "Combinaison de pluie et de sons chaleureux de cheminée",
+      "de": "Kombination aus Regen- und warmen Kamin-Geräuschen",
+      "pt": "Combinação de chuva e sons acolhedores de lareira"
     },
     "image": "images/rain_and_fireplace_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_and_fireplace_sounds@main/rain_and_fireplace_sounds.mp3",
@@ -21,11 +29,19 @@
     "id": "morning_birds_singing",
     "name": {
       "uk": "Ранковий спів птахів",
-      "en": "Morning Birds Singing"
+      "en": "Morning Birds Singing",
+      "es": "Canto de Aves por la Mañana",
+      "fr": "Chant des Oiseaux du Matin",
+      "de": "Morgendliches Vogelgezwitscher",
+      "pt": "Canto dos Pássaros pela Manhã"
     },
     "description": {
       "uk": "Жвавий спів птахів на світанку",
-      "en": "Lively bird singing at dawn"
+      "en": "Lively bird singing at dawn",
+      "es": "Canto animado de aves al amanecer",
+      "fr": "Chant animé des oiseaux à l'aube",
+      "de": "Lebhaftes Vogelgezwitscher bei Sonnenaufgang",
+      "pt": "Canto animado de pássaros ao amanhecer"
     },
     "image": "images/morning_birds_singing.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/morning_birds_singing@main/morning_birds_singing.mp3",
@@ -39,11 +55,19 @@
     "id": "spring_water_sounds",
     "name": {
       "uk": "Звуки джерельної води",
-      "en": "Spring Water Sounds"
+      "en": "Spring Water Sounds",
+      "es": "Sonidos de Agua de Manantial",
+      "fr": "Sons d'Eau de Source",
+      "de": "Quellwasser-Geräusche",
+      "pt": "Sons de Água de Nascente"
     },
     "description": {
       "uk": "Чисті звуки джерельної води серед природи",
-      "en": "Pure sounds of spring water in nature"
+      "en": "Pure sounds of spring water in nature",
+      "es": "Sonidos puros de agua de manantial en la naturaleza",
+      "fr": "Sons purs d'eau de source dans la nature",
+      "de": "Reine Geräusche von Quellwasser in der Natur",
+      "pt": "Sons puros de água de nascente na natureza"
     },
     "image": "images/spring_water_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/spring_water_sounds@main/spring_water_sounds.mp3",
@@ -57,11 +81,19 @@
     "id": "heavy_rain",
     "name": {
       "uk": "Сильний дощ",
-      "en": "Heavy Rain"
+      "en": "Heavy Rain",
+      "es": "Lluvia Intensa",
+      "fr": "Pluie Forte",
+      "de": "Starker Regen",
+      "pt": "Chuva Forte"
     },
     "description": {
       "uk": "Інтенсивний дощ із сильним шумом крапель",
-      "en": "Intense rain with loud raindrop sounds"
+      "en": "Intense rain with loud raindrop sounds",
+      "es": "Lluvia intensa con sonidos fuertes de gotas",
+      "fr": "Pluie intense avec des sons forts de gouttes",
+      "de": "Starker Regen mit lauten Regentropfen-Geräuschen",
+      "pt": "Chuva intensa com sons altos de gotas"
     },
     "image": "images/heavy_rain.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/heavy_rain@main/heavy_rain.mp3",
@@ -75,11 +107,19 @@
     "id": "fireplace_sounds_indoors",
     "name": {
       "uk": "Звуки каміна в домі",
-      "en": "Fireplace Sounds Indoors"
+      "en": "Fireplace Sounds Indoors",
+      "es": "Sonidos de Chimenea en Interiores",
+      "fr": "Sons de Cheminée à l'Intérieur",
+      "de": "Kamin-Geräusche Innen",
+      "pt": "Sons de Lareira Indoors"
     },
     "description": {
       "uk": "Теплі потріскування каміна всередині приміщення",
-      "en": "Warm crackling of a fireplace indoors"
+      "en": "Warm crackling of a fireplace indoors",
+      "es": "Cálido crepitar de la chimenea en interiores",
+      "fr": "Crépitement chaleureux de la cheminée à l'intérieur",
+      "de": "Warmes Knistern eines Kamins im Innenraum",
+      "pt": "Estalos quentes da lareira em interiores"
     },
     "image": "images/fireplace_sounds_indoors.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/fireplace_sounds_indoors@main/fireplace_sounds_indoors.mp3",
@@ -93,11 +133,19 @@
     "id": "rain_in_the_forest",
     "name": {
       "uk": "Дощ у лісі",
-      "en": "Rain in the Forest"
+      "en": "Rain in the Forest",
+      "es": "Lluvia en el Bosque",
+      "fr": "Pluie dans la Forêt",
+      "de": "Regen im Wald",
+      "pt": "Chuva na Floresta"
     },
     "description": {
       "uk": "Звуки дощу, що падає на листя і землю в лісі",
-      "en": "Rain sounds falling on leaves and forest ground"
+      "en": "Rain sounds falling on leaves and forest ground",
+      "es": "Sonidos de lluvia cayendo sobre hojas y suelo del bosque",
+      "fr": "Sons de pluie tombant sur les feuilles et le sol de la forêt",
+      "de": "Regengeräusche, die auf Blätter und Waldboden fallen",
+      "pt": "Sons de chuva caindo sobre folhas e chão da floresta"
     },
     "image": "images/rain_in_the_forest.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_in_the_forest@main/rain_in_the_forest.mp3",
@@ -111,11 +159,19 @@
     "id": "underwater_bubbles",
     "name": {
       "uk": "Підводні бульбашки",
-      "en": "Underwater Bubbles"
+      "en": "Underwater Bubbles",
+      "es": "Burbujas Submarinas",
+      "fr": "Bulles Sous l'Eau",
+      "de": "Unterwasserblasen",
+      "pt": "Bolhas Subaquáticas"
     },
     "description": {
       "uk": "Звуки бульбашок під водою",
-      "en": "Sounds of bubbles underwater"
+      "en": "Sounds of bubbles underwater",
+      "es": "Sonidos de burbujas bajo el agua",
+      "fr": "Sons de bulles sous l'eau",
+      "de": "Geräusche von Blasen unter Wasser",
+      "pt": "Sons de bolhas debaixo d'água"
     },
     "image": "images/underwater_bubbles.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/underwater_bubbles@main/underwater_bubbles.mp3",
@@ -129,11 +185,19 @@
     "id": "thunderstorm_with_thunder",
     "name": {
       "uk": "Гроза з громом",
-      "en": "Thunderstorm with Thunder"
+      "en": "Thunderstorm with Thunder",
+      "es": "Tormenta con Trueno",
+      "fr": "Orage avec Tonnerre",
+      "de": "Gewitter mit Donner",
+      "pt": "Tempestade com Trovão"
     },
     "description": {
       "uk": "Потужні звуки грози з гучним громом",
-      "en": "Powerful thunderstorm sounds with loud thunder"
+      "en": "Powerful thunderstorm sounds with loud thunder",
+      "es": "Sonidos potentes de tormenta con truenos fuertes",
+      "fr": "Sons puissants d'orage avec tonnerre fort",
+      "de": "Kraftvolle Gewittergeräusche mit lautem Donner",
+      "pt": "Sons poderosos de tempestade com trovão alto"
     },
     "image": "images/thunderstorm_with_thunder.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/thunderstorm_with_thunder@main/thunderstorm_with_thunder.mp3",
@@ -147,11 +211,19 @@
     "id": "camping_night_ambience",
     "name": {
       "uk": "Нічна атмосфера кемпінгу",
-      "en": "Camping Night Ambience"
+      "en": "Camping Night Ambience",
+      "es": "Ambiente Nocturno de Camping",
+      "fr": "Ambiance Nocturne de Camping",
+      "de": "Camping Nachtambiente",
+      "pt": "Ambiente Noturno de Acampamento"
     },
     "description": {
       "uk": "Нічні звуки природи навколо кемпінгу",
-      "en": "Nighttime nature sounds around a campsite"
+      "en": "Nighttime nature sounds around a campsite",
+      "es": "Sonidos de la naturaleza nocturna alrededor de un campamento",
+      "fr": "Sons de la nature nocturne autour d'un camping",
+      "de": "Nächtliche Naturgeräusche rund um den Campingplatz",
+      "pt": "Sons da natureza à noite ao redor de um acampamento"
     },
     "image": "images/camping_night_ambience.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/camping_night_ambience@main/camping_night_ambience.mp3",
@@ -165,11 +237,19 @@
     "id": "woodpecker_sounds",
     "name": {
       "uk": "Звуки дятла",
-      "en": "Woodpecker Sounds"
+      "en": "Woodpecker Sounds",
+      "es": "Sonidos de Pájaro Carpintero",
+      "fr": "Sons de Pic-vert",
+      "de": "Specht-Geräusche",
+      "pt": "Sons de Pica-Pau"
     },
     "description": {
       "uk": "Ритмічне стукотіння дятла по дереву",
-      "en": "Rhythmic tapping of a woodpecker on wood"
+      "en": "Rhythmic tapping of a woodpecker on wood",
+      "es": "Golpeteo rítmico de un pájaro carpintero sobre la madera",
+      "fr": "Tapotement rythmique d'un pic sur le bois",
+      "de": "Rhythmisches Klopfen eines Spechts auf Holz",
+      "pt": "Toque rítmico de um pica-pau na madeira"
     },
     "image": "images/woodpecker_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/woodpecker_sounds@main/woodpecker_sounds.mp3",
@@ -183,11 +263,19 @@
     "id": "waterfall_sounds",
     "name": {
       "uk": "Звуки водоспаду",
-      "en": "Waterfall Sounds"
+      "en": "Waterfall Sounds",
+      "es": "Sonidos de Cascada",
+      "fr": "Sons de Cascade",
+      "de": "Wasserfall-Geräusche",
+      "pt": "Sons de Cachoeira"
     },
     "description": {
       "uk": "Шум потужного водоспаду серед природи",
-      "en": "Sound of a powerful waterfall in nature"
+      "en": "Sound of a powerful waterfall in nature",
+      "es": "Sonido de una cascada poderosa en la naturaleza",
+      "fr": "Sons d'une puissante cascade dans la nature",
+      "de": "Geräusch eines mächtigen Wasserfalls in der Natur",
+      "pt": "Som de uma poderosa cachoeira na natureza"
     },
     "image": "images/waterfall_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/waterfall_sounds@main/waterfall_sounds.mp3",
@@ -201,11 +289,19 @@
     "id": "rain_on_the_roof",
     "name": {
       "uk": "Дощ на даху",
-      "en": "Rain on the Roof"
+      "en": "Rain on the Roof",
+      "es": "Lluvia en el Techo",
+      "fr": "Pluie sur le Toit",
+      "de": "Regen auf dem Dach",
+      "pt": "Chuva no Telhado"
     },
     "description": {
       "uk": "Звуки дощу, що падає на дах будинку",
-      "en": "Rain sounds falling on a house roof"
+      "en": "Rain sounds falling on a house roof",
+      "es": "Sonidos de lluvia cayendo sobre el techo de una casa",
+      "fr": "Sons de pluie tombant sur le toit d'une maison",
+      "de": "Regengeräusche, die auf ein Hausdach fallen",
+      "pt": "Sons de chuva caindo sobre o telhado de uma casa"
     },
     "image": "images/rain_on_the_roof.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_on_the_roof@main/rain_on_the_roof.mp3",
@@ -219,11 +315,19 @@
     "id": "forest_campfire_sounds",
     "name": {
       "uk": "Вогнище в лісі",
-      "en": "Forest Campfire"
+      "en": "Forest Campfire",
+      "es": "Hoguera en el Bosque",
+      "fr": "Feu de Camp dans la Forêt",
+      "de": "Lagerfeuer im Wald",
+      "pt": "Fogueira na Floresta"
     },
     "description": {
       "uk": "Звуки вогнища серед лісової тиші",
-      "en": "Campfire sounds amid the quiet forest"
+      "en": "Campfire sounds amid the quiet forest",
+      "es": "Sonidos de la hoguera en medio de la tranquila naturaleza",
+      "fr": "Sons du feu de camp au milieu de la forêt tranquille",
+      "de": "Lagerfeuergeräusche inmitten des ruhigen Waldes",
+      "pt": "Sons da fogueira em meio à floresta silenciosa"
     },
     "image": "images/forest_campfire_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/forest_campfire_sounds@main/forest_campfire_sounds.mp3",
@@ -237,11 +341,19 @@
     "id": "forest_night_sounds",
     "name": {
       "uk": "Нічні звуки лісу",
-      "en": "Forest Night Sounds"
+      "en": "Forest Night Sounds",
+      "es": "Sonidos Nocturnos del Bosque",
+      "fr": "Sons Nocturnes de la Forêt",
+      "de": "Nächtliche Waldgeräusche",
+      "pt": "Sons Noturnos da Floresta"
     },
     "description": {
       "uk": "Звуки лісу вночі: сови і нічні птахи",
-      "en": "Forest sounds at night: owls and night birds"
+      "en": "Forest sounds at night: owls and night birds",
+      "es": "Sonidos del bosque por la noche: búhos y aves nocturnas",
+      "fr": "Sons de la forêt la nuit : hiboux et oiseaux nocturnes",
+      "de": "Waldgeräusche in der Nacht: Eulen und nachtaktive Vögel",
+      "pt": "Sons da floresta à noite: corujas e aves noturnas"
     },
     "image": "images/forest_night_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/forest_night_sounds@main/forest_night_sounds.mp3",
@@ -255,11 +367,19 @@
     "id": "ocean_waves_crashing_on_the_beach",
     "name": {
       "uk": "Хвилі, що розбиваються об берег",
-      "en": "Ocean Waves Crashing on the Beach"
+      "en": "Ocean Waves Crashing on the Beach",
+      "es": "Olas del Océano Rompiendo en la Playa",
+      "fr": "Vagues de l'Océan Se Brisant sur la Plage",
+      "de": "Ozeanwellen, die am Strand brechen",
+      "pt": "Ondas do Oceano Quebrando na Praia"
     },
     "description": {
       "uk": "Гучні хвилі, що розбиваються об пісок пляжу",
-      "en": "Loud waves crashing onto the sandy beach"
+      "en": "Loud waves crashing onto the sandy beach",
+      "es": "Olas fuertes rompiendo en la arena de la playa",
+      "fr": "Vagues bruyantes s'écrasant sur le sable de la plage",
+      "de": "Laute Wellen, die auf den Sandstrand prallen",
+      "pt": "Ondas altas quebrando na areia da praia"
     },
     "image": "images/ocean_waves_crashing_on_the_beach.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/ocean_waves_crashing_on_the_beach@main/ocean_waves_crashing_on_the_beach.mp3",
@@ -273,11 +393,19 @@
     "id": "gentle_wind",
     "name": {
       "uk": "Легкий вітер",
-      "en": "Gentle Wind"
+      "en": "Gentle Wind",
+      "es": "Viento Suave",
+      "fr": "Vent Doux",
+      "de": "Sanfter Wind",
+      "pt": "Vento Suave"
     },
     "description": {
       "uk": "М'який вітерець серед природи",
-      "en": "Soft gentle breeze in nature"
+      "en": "Soft gentle breeze in nature",
+      "es": "Brisa suave en la naturaleza",
+      "fr": "Douce brise dans la nature",
+      "de": "Sanfte Brise in der Natur",
+      "pt": "Brisa suave na natureza"
     },
     "image": "images/gentle_wind.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/gentle_wind@main/gentle_wind.mp3",
@@ -291,11 +419,19 @@
     "id": "fire_and_wind_sounds",
     "name": {
       "uk": "Вогонь і вітер",
-      "en": "Fire and Wind"
+      "en": "Fire and Wind",
+      "es": "Fuego y Viento",
+      "fr": "Feu et Vent",
+      "de": "Feuer und Wind",
+      "pt": "Fogo e Vento"
     },
     "description": {
       "uk": "Поєднання звуків вогню і свисту вітру",
-      "en": "Combination of fire crackling and whistling wind sounds"
+      "en": "Combination of fire crackling and whistling wind sounds",
+      "es": "Combinación de crujido de fuego y silbido del viento",
+      "fr": "Combinaison de crépitements de feu et de sifflements du vent",
+      "de": "Kombination aus Feuerknistern und pfeifendem Wind",
+      "pt": "Combinação de estalos de fogo e assobio do vento"
     },
     "image": "images/fire_and_wind_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/fire_and_wind_sounds@main/fire_and_wind_sounds.mp3",
@@ -309,11 +445,19 @@
     "id": "rustling_grass_sounds",
     "name": {
       "uk": "Шелест трави",
-      "en": "Rustling Grass Sounds"
+      "en": "Rustling Grass Sounds",
+      "es": "Sonidos de Hierba Susurrante",
+      "fr": "Sons d'Herbe Bruissante",
+      "de": "Raschelndes Gras",
+      "pt": "Sons de Grama Sussurrante"
     },
     "description": {
       "uk": "Звуки шелестіння трави під легким вітерцем",
-      "en": "Sounds of grass rustling in a light breeze"
+      "en": "Sounds of grass rustling in a light breeze",
+      "es": "Sonidos de la hierba susurrando con una brisa ligera",
+      "fr": "Sons de l'herbe bruissant sous une légère brise",
+      "de": "Geräusche von Gras, das im leichten Wind raschelt",
+      "pt": "Sons da grama sussurrando com uma brisa leve"
     },
     "image": "images/rustling_grass_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rustling_grass_sounds@main/rustling_grass_sounds.mp3",
@@ -327,11 +471,19 @@
     "id": "ocean_waves_and_seagulls",
     "name": {
       "uk": "Океанські хвилі та чайки",
-      "en": "Ocean Waves and Seagulls"
+      "en": "Ocean Waves and Seagulls",
+      "es": "Olas del Océano y Gaviotas",
+      "fr": "Vagues de l'Océan et Mouettes",
+      "de": "Ozeanwellen und Möwen",
+      "pt": "Ondas do Oceano e Gaivotas"
     },
     "description": {
       "uk": "Звуки хвиль океану і криків чайок на березі",
-      "en": "Sounds of ocean waves and seagulls on the shore"
+      "en": "Sounds of ocean waves and seagulls on the shore",
+      "es": "Sonidos de olas del océano y gaviotas en la orilla",
+      "fr": "Sons des vagues de l'océan et des mouettes sur le rivage",
+      "de": "Geräusche von Ozeanwellen und Möwen am Ufer",
+      "pt": "Sons de ondas do oceano e gaivotas na costa"
     },
     "image": "images/ocean_waves_and_seagulls.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/ocean_waves_and_seagulls@main/ocean_waves_and_seagulls.mp3",
@@ -345,11 +497,19 @@
     "id": "rain_on_puddles",
     "name": {
       "uk": "Дощ на калюжах",
-      "en": "Rain on Puddles"
+      "en": "Rain on Puddles",
+      "es": "Lluvia en los Charcos",
+      "fr": "Pluie sur les Flaques",
+      "de": "Regen auf Pfützen",
+      "pt": "Chuva nas Poças"
     },
     "description": {
       "uk": "Звуки дощу, що б'є по калюжах",
-      "en": "Rain sounds hitting puddles"
+      "en": "Rain sounds hitting puddles",
+      "es": "Sonidos de la lluvia golpeando los charcos",
+      "fr": "Sons de la pluie frappant les flaques",
+      "de": "Regengeräusche, die auf Pfützen treffen",
+      "pt": "Sons da chuva batendo nas poças"
     },
     "image": "images/rain_on_puddles.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_on_puddles@main/rain_on_puddles.mp3",
@@ -363,11 +523,19 @@
     "id": "rain_on_camping_tent",
     "name": {
       "uk": "Дощ на наметі",
-      "en": "Rain on Camping Tent"
+      "en": "Rain on Camping Tent",
+      "es": "Lluvia en la Tienda de Campaña",
+      "fr": "Pluie sur la Tente de Camping",
+      "de": "Regen auf dem Campingzelt",
+      "pt": "Chuva na Tenda de Acampamento"
     },
     "description": {
       "uk": "Звуки дощу, що падає на тканину намету",
-      "en": "Rain sounds falling on the camping tent fabric"
+      "en": "Rain sounds falling on the camping tent fabric",
+      "es": "Sonidos de la lluvia cayendo sobre la tela de la tienda de campaña",
+      "fr": "Sons de la pluie tombant sur le tissu de la tente de camping",
+      "de": "Regengeräusche, die auf das Zelttuch fallen",
+      "pt": "Sons da chuva caindo sobre o tecido da tenda de acampamento"
     },
     "image": "images/rain_on_camping_tent.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_on_camping_tent@main/rain_on_camping_tent.mp3",
@@ -381,11 +549,19 @@
     "id": "forest_birds_sounds",
     "name": {
       "uk": "Пташиний спів лісу",
-      "en": "Forest Birds Singing"
+      "en": "Forest Birds Singing",
+      "es": "Canto de Pájaros del Bosque",
+      "fr": "Chants d'Oiseaux de la Forêt",
+      "de": "Gesang der Waldvögel",
+      "pt": "Canto de Pássaros da Floresta"
     },
     "description": {
       "uk": "Спокійний спів птахів у глибині лісу",
-      "en": "Calm singing of birds deep in the forest"
+      "en": "Calm singing of birds deep in the forest",
+      "es": "Canto tranquilo de pájaros en lo profundo del bosque",
+      "fr": "Chants calmes d'oiseaux au fond de la forêt",
+      "de": "Ruhiges Zwitschern von Vögeln tief im Wald",
+      "pt": "Canto calmo de pássaros no interior da floresta"
     },
     "image": "images/forest_birds_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/forest_birds_sounds@main/forest_birds_sounds.mp3",
@@ -399,11 +575,19 @@
     "id": "sea_waves_sounds",
     "name": {
       "uk": "Морські хвилі",
-      "en": "Sea Waves Sounds"
+      "en": "Sea Waves Sounds",
+      "es": "Sonidos de Olas del Mar",
+      "fr": "Sons des Vagues de la Mer",
+      "de": "Meereswellen Geräusche",
+      "pt": "Sons das Ondas do Mar"
     },
     "description": {
       "uk": "Шум морських хвиль біля берега",
-      "en": "Sound of sea waves near the shore"
+      "en": "Sound of sea waves near the shore",
+      "es": "Sonido de las olas del mar cerca de la orilla",
+      "fr": "Sons des vagues de la mer près du rivage",
+      "de": "Geräusche von Meereswellen nahe dem Ufer",
+      "pt": "Som das ondas do mar perto da costa"
     },
     "image": "images/sea_waves_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/sea_waves_sounds@main/sea_waves_sounds.mp3",
@@ -417,11 +601,19 @@
     "id": "light_rain",
     "name": {
       "uk": "Легкий дощ",
-      "en": "Light Rain"
+      "en": "Light Rain",
+      "es": "Lluvia Ligera",
+      "fr": "Pluie Légère",
+      "de": "Leichter Regen",
+      "pt": "Chuva Leve"
     },
     "description": {
       "uk": "М'який дощ, що створює спокійну атмосферу",
-      "en": "Light rain creating a calm atmosphere"
+      "en": "Light rain creating a calm atmosphere",
+      "es": "Lluvia ligera que crea una atmósfera tranquila",
+      "fr": "Pluie légère créant une atmosphère calme",
+      "de": "Leichter Regen, der eine ruhige Atmosphäre schafft",
+      "pt": "Chuva leve criando uma atmosfera calma"
     },
     "image": "images/light_rain.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/light_rain@main/light_rain.mp3",
@@ -435,11 +627,19 @@
     "id": "crackling_campfire",
     "name": {
       "uk": "Потріскування вогнища",
-      "en": "Crackling Campfire"
+      "en": "Crackling Campfire",
+      "es": "Crepitar de la Fogata",
+      "fr": "Crépitement du Feu de Camp",
+      "de": "Knisterndes Lagerfeuer",
+      "pt": "Crepitar da Fogueira"
     },
     "description": {
       "uk": "Інтенсивний звук потріскування дров у вогнищі",
-      "en": "Intense sound of wood crackling in a campfire"
+      "en": "Intense sound of wood crackling in a campfire",
+      "es": "Sonido intenso de la madera crepitando en una fogata",
+      "fr": "Son intense du bois qui crépite dans un feu de camp",
+      "de": "Intensives Geräusch von Holzknistern im Lagerfeuer",
+      "pt": "Som intenso da madeira estalando na fogueira"
     },
     "image": "images/crackling_campfire.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/crackling_campfire@main/crackling_campfire.mp3",
@@ -453,11 +653,19 @@
     "id": "gentle_forest_wind",
     "name": {
       "uk": "Легкий лісовий вітер",
-      "en": "Gentle Forest Wind"
+      "en": "Gentle Forest Wind",
+      "es": "Viento Suave del Bosque",
+      "fr": "Vent Doux de la Forêt",
+      "de": "Sanfter Waldwind",
+      "pt": "Vento Suave da Floresta"
     },
     "description": {
       "uk": "Спокійний вітер серед дерев лісу",
-      "en": "Calm wind blowing through forest trees"
+      "en": "Calm wind blowing through forest trees",
+      "es": "Viento tranquilo soplando entre los árboles del bosque",
+      "fr": "Vent calme soufflant à travers les arbres de la forêt",
+      "de": "Sanfter Wind, der durch die Bäume des Waldes weht",
+      "pt": "Vento calmo soprando entre as árvores da floresta"
     },
     "image": "images/gentle_forest_wind.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/gentle_forest_wind@main/gentle_forest_wind.mp3",
@@ -471,11 +679,19 @@
     "id": "ocean_waves_sounds",
     "name": {
       "uk": "Звуки океанських хвиль",
-      "en": "Ocean Waves Sounds"
+      "en": "Ocean Waves Sounds",
+      "es": "Sonidos de Olas del Océano",
+      "fr": "Sons des Vagues de l'Océan",
+      "de": "Ozeanwellen-Geräusche",
+      "pt": "Sons das Ondas do Oceano"
     },
     "description": {
       "uk": "Спокійний шум хвиль океану",
-      "en": "Calm sound of ocean waves"
+      "en": "Calm sound of ocean waves",
+      "es": "Sonido tranquilo de las olas del océano",
+      "fr": "Son calme des vagues de l'océan",
+      "de": "Ruhiges Geräusch der Ozeanwellen",
+      "pt": "Som calmo das ondas do oceano"
     },
     "image": "images/ocean_waves_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/ocean_waves_sounds@main/ocean_waves_sounds.mp3",
@@ -489,11 +705,19 @@
     "id": "wind_in_the_mountains",
     "name": {
       "uk": "Вітер у горах",
-      "en": "Wind in the Mountains"
+      "en": "Wind in the Mountains",
+      "es": "Viento en las Montañas",
+      "fr": "Vent dans les Montagnes",
+      "de": "Wind in den Bergen",
+      "pt": "Vento nas Montanhas"
     },
     "description": {
       "uk": "Пронизливий вітер у високогір'ї",
-      "en": "Piercing wind in the high mountains"
+      "en": "Piercing wind in the high mountains",
+      "es": "Viento penetrante en las altas montañas",
+      "fr": "Vent perçant dans les hautes montagnes",
+      "de": "Durchdringender Wind in den Hochbergen",
+      "pt": "Vento cortante nas altas montanhas"
     },
     "image": "images/wind_in_the_mountains.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/wind_in_the_mountains@main/wind_in_the_mountains.mp3",
@@ -507,11 +731,19 @@
     "id": "campfire_with_wind_sounds",
     "name": {
       "uk": "Вогнище з вітром",
-      "en": "Campfire with Wind"
+      "en": "Campfire with Wind",
+      "es": "Hoguera con Viento",
+      "fr": "Feu de Camp avec Vent",
+      "de": "Lagerfeuer mit Wind",
+      "pt": "Fogueira com Vento"
     },
     "description": {
       "uk": "Звуки потріскування вогнища під легкий вітерець",
-      "en": "Crackling campfire sounds with a gentle breeze"
+      "en": "Crackling campfire sounds with a gentle breeze",
+      "es": "Sonidos de hoguera crepitante con una brisa suave",
+      "fr": "Sons de feu de camp crépitant avec une brise légère",
+      "de": "Knistern des Lagerfeuers mit einer sanften Brise",
+      "pt": "Sons de fogueira crepitante com uma brisa suave"
     },
     "image": "images/campfire_with_wind_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/campfire_with_wind_sounds@main/campfire_with_wind_sounds.mp3",
@@ -525,11 +757,19 @@
     "id": "wind_in_the_forest",
     "name": {
       "uk": "Вітер у лісі",
-      "en": "Wind in the Forest"
+      "en": "Wind in the Forest",
+      "es": "Viento en el Bosque",
+      "fr": "Vent dans la Forêt",
+      "de": "Wind im Wald",
+      "pt": "Vento na Floresta"
     },
     "description": {
       "uk": "Свист вітру серед дерев лісу",
-      "en": "Whistling wind among forest trees"
+      "en": "Whistling wind among forest trees",
+      "es": "Viento silbando entre los árboles del bosque",
+      "fr": "Vent sifflant parmi les arbres de la forêt",
+      "de": "Pfeifender Wind zwischen den Bäumen des Waldes",
+      "pt": "Vento assobiando entre as árvores da floresta"
     },
     "image": "images/wind_in_the_forest.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/wind_in_the_forest@main/wind_in_the_forest.mp3",
@@ -543,11 +783,19 @@
     "id": "rain_on_water_surface",
     "name": {
       "uk": "Дощ на поверхні води",
-      "en": "Rain on Water Surface"
+      "en": "Rain on Water Surface",
+      "es": "Lluvia en la Superficie del Agua",
+      "fr": "Pluie sur la Surface de l'Eau",
+      "de": "Regen auf der Wasseroberfläche",
+      "pt": "Chuva na Superfície da Água"
     },
     "description": {
       "uk": "Звуки крапель дощу, що падають на поверхню води",
-      "en": "Sounds of raindrops falling on water surface"
+      "en": "Sounds of raindrops falling on water surface",
+      "es": "Sonidos de gotas de lluvia cayendo sobre la superficie del agua",
+      "fr": "Sons des gouttes de pluie tombant sur la surface de l'eau",
+      "de": "Geräusche von Regentropfen, die auf die Wasseroberfläche fallen",
+      "pt": "Sons de gotas de chuva caindo na superfície da água"
     },
     "image": "images/rain_on_water_surface.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_on_water_surface@main/rain_on_water_surface.mp3",
@@ -561,11 +809,19 @@
     "id": "rain_and_thunder_sounds",
     "name": {
       "uk": "Дощ та грім",
-      "en": "Rain and Thunder"
+      "en": "Rain and Thunder",
+      "es": "Lluvia y Trueno",
+      "fr": "Pluie et Tonnerre",
+      "de": "Regen und Donner",
+      "pt": "Chuva e Trovão"
     },
     "description": {
       "uk": "Звуки сильного дощу з віддаленими ударами грому",
-      "en": "Sounds of heavy rain with distant thunderclaps"
+      "en": "Sounds of heavy rain with distant thunderclaps",
+      "es": "Sonidos de lluvia intensa con truenos lejanos",
+      "fr": "Sons de forte pluie avec des coups de tonnerre lointains",
+      "de": "Geräusche von starkem Regen mit entferntem Donnergrollen",
+      "pt": "Sons de chuva intensa com trovões distantes"
     },
     "image": "images/rain_and_thunder_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_and_thunder_sounds@main/rain_and_thunder_sounds.mp3",
@@ -579,11 +835,19 @@
     "id": "rain_on_the_tent",
     "name": {
       "uk": "Дощ на тенті",
-      "en": "Rain on the Tent"
+      "en": "Rain on the Tent",
+      "es": "Lluvia en la Tienda",
+      "fr": "Pluie sur la Tente",
+      "de": "Regen auf dem Zelt",
+      "pt": "Chuva na Barraca"
     },
     "description": {
       "uk": "Звуки дощу на наметі, що створюють затишок",
-      "en": "Rain sounds on the tent creating coziness"
+      "en": "Rain sounds on the tent creating coziness",
+      "es": "Sonidos de lluvia sobre la tienda creando comodidad",
+      "fr": "Sons de pluie sur la tente créant une ambiance cosy",
+      "de": "Regengeräusche auf dem Zelt, die Gemütlichkeit schaffen",
+      "pt": "Sons de chuva na barraca criando aconchego"
     },
     "image": "images/rain_on_the_tent.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_on_the_tent@main/rain_on_the_tent.mp3",
@@ -597,11 +861,19 @@
     "id": "forest_daytime_ambience",
     "name": {
       "uk": "Денна атмосфера лісу",
-      "en": "Forest Daytime Ambience"
+      "en": "Forest Daytime Ambience",
+      "es": "Ambiente diurno del bosque",
+      "fr": "Ambiance de jour en forêt",
+      "de": "Wald-Tagessound",
+      "pt": "Ambiente diurno da floresta"
     },
     "description": {
       "uk": "Звуки лісу вдень: птахи і легкий вітер",
-      "en": "Forest sounds during daytime: birds and light breeze"
+      "en": "Forest sounds during daytime: birds and light breeze",
+      "es": "Sonidos del bosque durante el día: pájaros y brisa ligera",
+      "fr": "Sons de la forêt en journée : oiseaux et légère brise",
+      "de": "Waldgeräusche tagsüber: Vögel und leichte Brise",
+      "pt": "Sons da floresta durante o dia: pássaros e brisa leve"
     },
     "image": "images/forest_daytime_ambience.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/forest_daytime_ambience@main/forest_daytime_ambience.mp3",
@@ -615,11 +887,19 @@
     "id": "gentle_water_splashing",
     "name": {
       "uk": "Легке плескання води",
-      "en": "Gentle Water Splashing"
+      "en": "Gentle Water Splashing",
+      "es": "Chapoteo suave del agua",
+      "fr": "Éclaboussures douces de l'eau",
+      "de": "Sanftes Plätschern des Wassers",
+      "pt": "Leve respingo de água"
     },
     "description": {
       "uk": "Ніжне плескання води, що заспокоює",
-      "en": "Soft water splashing sounds that soothe"
+      "en": "Soft water splashing sounds that soothe",
+      "es": "Suaves sonidos de chapoteo de agua que calman",
+      "fr": "Sons doux d'éclaboussures d'eau qui apaisent",
+      "de": "Sanfte Wasserplätschern-Geräusche, die beruhigen",
+      "pt": "Sons suaves de respingos de água que acalmam"
     },
     "image": "images/gentle_water_splashing.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/gentle_water_splashing@main/gentle_water_splashing.mp3",
@@ -633,11 +913,19 @@
     "id": "rustling_leaves_sounds",
     "name": {
       "uk": "Шелестіння листя",
-      "en": "Rustling Leaves Sounds"
+      "en": "Rustling Leaves Sounds",
+      "es": "Sonidos de hojas susurrantes",
+      "fr": "Bruits de feuilles qui bruissent",
+      "de": "Rascheln der Blätter",
+      "pt": "Sons de folhas farfalhantes"
     },
     "description": {
       "uk": "Звуки шелестіння осіннього листя на деревах",
-      "en": "Sounds of rustling autumn leaves on trees"
+      "en": "Sounds of rustling autumn leaves on trees",
+      "es": "Sonidos de hojas de otoño susurrando en los árboles",
+      "fr": "Sons des feuilles d'automne qui bruissent sur les arbres",
+      "de": "Geräusche raschelnder Herbstblätter auf den Bäumen",
+      "pt": "Sons de folhas de outono farfalhando nas árvores"
     },
     "image": "images/rustling_leaves_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rustling_leaves_sounds@main/rustling_leaves_sounds.mp3",
@@ -651,11 +939,19 @@
     "id": "mountain_stream_sounds",
     "name": {
       "uk": "Звуки гірського струмка",
-      "en": "Mountain Stream Sounds"
+      "en": "Mountain Stream Sounds",
+      "es": "Sonidos de arroyo de montaña",
+      "fr": "Sons de ruisseau de montagne",
+      "de": "Bergbachgeräusche",
+      "pt": "Sons de riacho de montanha"
     },
     "description": {
       "uk": "Шум гірської річки серед скель",
-      "en": "Mountain river sounds flowing through rocks"
+      "en": "Mountain river sounds flowing through rocks",
+      "es": "Sonidos de río de montaña fluyendo entre las rocas",
+      "fr": "Sons de rivière de montagne coulant à travers les rochers",
+      "de": "Geräusche eines Bergflusses, der durch Felsen fließt",
+      "pt": "Sons de rio de montanha correndo entre as rochas"
     },
     "image": "images/mountain_stream_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/mountain_stream_sounds@main/mountain_stream_sounds.mp3",
@@ -669,11 +965,19 @@
     "id": "summer_evening_with_crickets",
     "name": {
       "uk": "Літній вечір із цвіркунами",
-      "en": "Summer Evening with Crickets"
+      "en": "Summer Evening with Crickets",
+      "es": "Tarde de verano con grillos",
+      "fr": "Soirée d'été avec des criquets",
+      "de": "Sommerabend mit Grillen",
+      "pt": "Noite de verão com grilos"
     },
     "description": {
       "uk": "Спокійна атмосфера літнього вечора з цвіркунами",
-      "en": "Calm summer evening atmosphere with crickets"
+      "en": "Calm summer evening atmosphere with crickets",
+      "es": "Ambiente tranquilo de una tarde de verano con grillos",
+      "fr": "Atmosphère calme d'une soirée d'été avec des criquets",
+      "de": "Ruhige Sommerabend-Atmosphäre mit Grillen",
+      "pt": "Atmosfera calma de uma noite de verão com grilos"
     },
     "image": "images/summer_evening_with_crickets.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/summer_evening_with_crickets@main/summer_evening_with_crickets.mp3",
@@ -686,12 +990,20 @@
   {
     "id": "crickets_chirping_at_night",
     "name": {
-      "uk": "Цвірінькання цвіркунів вночі",
-      "en": "Crickets Chirping at Night"
+      "uk": "Цвіркіт вночі",
+      "en": "Crickets at Night",
+      "es": "Grillos por la noche",
+      "fr": "Grillons la nuit",
+      "de": "Grillen in der Nacht",
+      "pt": "Grilos à noite"
     },
     "description": {
-      "uk": "Мелодійне цвірінькання цвіркунів у темну ніч",
-      "en": "Melodic chirping of crickets during dark night"
+      "uk": "Мелодійний цвіркіт у темну ніч",
+      "en": "Crickets chirping during the night",
+      "es": "Grillos cantando durante la noche",
+      "fr": "Grillons chantant pendant la nuit",
+      "de": "Grillen zirpen während der Nacht",
+      "pt": "Grilos cantando durante a noite"
     },
     "image": "images/crickets_chirping_at_night.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/crickets_chirping_at_night@main/crickets_chirping_at_night.mp3",
@@ -705,11 +1017,19 @@
     "id": "frogs_croaking_near_water2",
     "name": {
       "uk": "Квакання жаб біля води",
-      "en": "Frogs Croaking Near Water"
+      "en": "Frogs Croaking Near Water",
+      "es": "Croar de ranas cerca del agua",
+      "fr": "Crapauds coassant près de l'eau",
+      "de": "Froschquaken in der Nähe von Wasser",
+      "pt": "Rãs coaxando perto da água"
     },
     "description": {
       "uk": "Звуки квакання жаб неподалік від водойму",
-      "en": "Sounds of frogs croaking near a body of water"
+      "en": "Sounds of frogs croaking near a body of water",
+      "es": "Sonidos de ranas croando cerca de un cuerpo de agua",
+      "fr": "Sons de grenouilles coassant près d'un plan d'eau",
+      "de": "Geräusche von Fröschen, die in der Nähe eines Gewässers quaken",
+      "pt": "Sons de rãs coaxando perto de um corpo de água"
     },
     "image": "images/frogs_croaking_near_water.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/frogs_croaking_near_water2@main/frogs_croaking_near_water2.mp3",
