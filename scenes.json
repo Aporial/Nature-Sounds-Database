@@ -19,8 +19,8 @@
     },
     "image": "images/rain_and_fireplace_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/rain_and_fireplace_sounds@main/rain_and_fireplace_sounds.mp3",
-    "mainColor": "#456e7b",
-    "accentColor": "#2a3c42",
+    "mainColor": "#f9da7f",
+    "accentColor": "#91a3ad",
     "category": "cozyAndCamping",
     "sizeMB": 19.5,
     "version": 1
