@@ -104,6 +104,32 @@
     "version": 1
   },
   {
+    "id": "blizzard_night",
+    "name": {
+      "uk": "Нічна хуртовина",
+      "en": "Blizzard Night",
+      "es": "Noche de ventisca",
+      "fr": "Nuit de blizzard",
+      "de": "Schneesturm-Nacht",
+      "pt": "Noite de nevasca"
+    },
+    "description": {
+      "uk": "Гучна хуртовина вночі",
+      "en": "Loud blizzard at night",
+      "es": "Fuerte ventisca nocturna",
+      "fr": "Violent blizzard nocturne",
+      "de": "Heftiger Schneesturm in der Nacht",
+      "pt": "Forte nevasca à noite"
+    },
+    "image": "images/blizzard_night.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/blizzard_night@main/blizzard_night.mp3",
+    "mainColor": "#dde3e8",
+    "accentColor": "#e8ecef",
+    "category": "winter",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
     "id": "fireplace_sounds_indoors",
     "name": {
       "uk": "Звуки каміна в домі",
@@ -204,6 +230,32 @@
     "mainColor": "#adc8dd",
     "accentColor": "#405a5b",
     "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "snow_crunching",
+    "name": {
+      "uk": "Хрускіт снігу",
+      "en": "Snow Crunching",
+      "es": "Crujido de nieve",
+      "fr": "Craquement de la neige",
+      "de": "Knirschen des Schnees",
+      "pt": "Ranger da neve"
+    },
+    "description": {
+      "uk": "Характерний звук кроків по свіжому снігу",
+      "en": "Characteristic sound of footsteps on fresh snow",
+      "es": "Sonido característico de pasos sobre la nieve fresca",
+      "fr": "Son caractéristique des pas sur la neige fraîche",
+      "de": "Charakteristisches Geräusch von Schritten im frischen Schnee",
+      "pt": "Som característico de passos na neve fresca"
+    },
+    "image": "images/snow_crunching.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/snow_crunching@main/snow_crunching.mp3",
+    "mainColor": "#f4f2f0",
+    "accentColor": "#a6b8d2",
+    "category": "winter",
     "sizeMB": 19.5,
     "version": 1
   },
@@ -312,6 +364,32 @@
     "version": 1
   },
   {
+    "id": "snowfall_soft",
+    "name": {
+      "uk": "Тихий снігопад",
+      "en": "Soft Snowfall",
+      "es": "Suave nevada",
+      "fr": "Douce chute de neige",
+      "de": "Sanfter Schneefall",
+      "pt": "Neve suave"
+    },
+    "description": {
+      "uk": "Легкий та спокійний зимовий снігопад",
+      "en": "Light and peaceful winter snowfall",
+      "es": "Ligera y tranquila nevada invernal",
+      "fr": "Douce et paisible chute de neige hivernale",
+      "de": "Leichter und friedlicher Winterschneefall",
+      "pt": "Neve leve e pacífica de inverno"
+    },
+    "image": "images/snowfall_soft.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/snowfall_soft@main/snowfall_soft.mp3",
+    "mainColor": "#e2ebef",
+    "accentColor": "#fafcfe",
+    "category": "winter",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
     "id": "forest_campfire_sounds",
     "name": {
       "uk": "Вогнище в лісі",
@@ -412,6 +490,32 @@
     "mainColor": "#aac8c8",
     "accentColor": "#7a8f70",
     "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "snowstorm_wind",
+    "name": {
+      "uk": "Завірюха та вітер",
+      "en": "Snowstorm and Wind",
+      "es": "Tormenta de nieve y viento",
+      "fr": "Tempête de neige et vent",
+      "de": "Schneesturm und Wind",
+      "pt": "Tempestade de neve e vento"
+    },
+    "description": {
+      "uk": "Сильний зимовий вітер зі сніговою завірюхою",
+      "en": "Strong winter wind with a snowstorm",
+      "es": "Viento invernal fuerte con tormenta de nieve",
+      "fr": "Vent d'hiver fort avec tempête de neige",
+      "de": "Starker Winterwind mit Schneesturm",
+      "pt": "Vento forte de inverno com tempestade de neve"
+    },
+    "image": "images/snowstorm_wind.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/snowstorm_wind@main/snowstorm_wind.mp3",
+    "mainColor": "#bbbbbb",
+    "accentColor": "#fdfdfd",
+    "category": "winter",
     "sizeMB": 19.5,
     "version": 1
   },
@@ -520,6 +624,32 @@
     "version": 1
   },
   {
+    "id": "snowy_forest",
+    "name": {
+      "uk": "Зимовий ліс",
+      "en": "Snowy Forest",
+      "es": "Bosque nevado",
+      "fr": "Forêt enneigée",
+      "de": "Verschneiter Wald",
+      "pt": "Floresta nevada"
+    },
+    "description": {
+      "uk": "Тиша та спокій засніженого лісу",
+      "en": "Silence and calm of a snowy forest",
+      "es": "Silencio y calma de un bosque nevado",
+      "fr": "Silence et calme d'une forêt enneigée",
+      "de": "Stille und Ruhe eines verschneiten Waldes",
+      "pt": "Silêncio e calma de uma floresta nevada"
+    },
+    "image": "images/snowy_forest.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/snowy_forest@main/snowy_forest.mp3",
+    "mainColor": "#ece9e1",
+    "accentColor": "#f9f9f9",
+    "category": "winter",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
     "id": "rain_on_camping_tent",
     "name": {
       "uk": "Дощ на наметі",
@@ -620,6 +750,32 @@
     "mainColor": "#b1b5c0",
     "accentColor": "#79926b",
     "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "winter_night_ambience",
+    "name": {
+      "uk": "Зимова ніч",
+      "en": "Winter Night",
+      "es": "Noche de invierno",
+      "fr": "Nuit d'hiver",
+      "de": "Winternacht",
+      "pt": "Noite de inverno"
+    },
+    "description": {
+      "uk": "Тиха й холодна атмосфера зимової ночі",
+      "en": "Silent and cold atmosphere of a winter night",
+      "es": "Atmósfera silenciosa y fría de una noche de invierno",
+      "fr": "Ambiance silencieuse et froide d'une nuit d'hiver",
+      "de": "Stille und kalte Atmosphäre einer Winternacht",
+      "pt": "Atmosfera silenciosa e fria de uma noite de inverno"
+    },
+    "image": "images/winter_night_ambience.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/winter_night_ambience@main/winter_night_ambience.mp3",
+    "mainColor": "#d0b340",
+    "accentColor": "#e5e7e7",
+    "category": "winter",
     "sizeMB": 19.5,
     "version": 1
   },
