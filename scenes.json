@@ -112,6 +112,34 @@
     "version": 1
   },
   {
+  "id": "nightingale_sounds",
+  "name": {
+    "uk": "Спів солов'я",
+    "en": "Nightingale Sounds",
+    "es": "Sonidos de Ruiseñor",
+    "fr": "Chants du Rossignol",
+    "de": "Nachtigall-Klänge",
+    "pt": "Sons de Rouxinol",
+    "pl": "Śpiew Słowika"
+  },
+  "description": {
+    "uk": "Мелодійний спів солов'я для релаксації",
+    "en": "Melodic nightingale singing for relaxation",
+    "es": "Canto melódico del ruiseñor para la relajación",
+    "fr": "Chant mélodieux du rossignol pour la détente",
+    "de": "Melodischer Nachtigallengesang zur Entspannung",
+    "pt": "Canto melódico do rouxinol para relaxamento",
+    "pl": "Melodyjny śpiew słowika do relaksu"
+  },
+    "image": "images/nightingale_sounds.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/nightingale_sounds@main/nightingale_sounds.mp3",
+    "mainColor": "#ebd7a4",
+    "accentColor": "#4e6e7d",
+    "category": "forestAndNature",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
     "id": "blizzard_night",
     "name": {
       "uk": "Нічна хуртовина",
