@@ -1,5 +1,453 @@
 [
   {
+    "id": "cat_purring_gentle_breathing",
+    "name": {
+      "uk": "Муркотіння кота та дихання",
+      "en": "Cat Purring and Breathing",
+      "es": "Ronroneo de Gato y Respiración",
+      "fr": "Ronronnement de Chat et Respiration",
+      "de": "Katzen-Schnurren und Atmen",
+      "pt": "Ronronar de Gato e Respiração",
+      "pl": "Mruczenie Kota i Oddech"
+    },
+    "description": {
+      "uk": "Заспокійливе муркотіння кота, що лежить поруч, та тихе дихання.",
+      "en": "A soothing cat purring nearby combined with gentle breathing sounds.",
+      "es": "Un ronroneo de gato relajante cerca combinado con sonidos suaves de respiración.",
+      "fr": "Un ronronnement de chat apaisant à proximité combiné à des sons de respiration doux.",
+      "de": "Beruhigendes Katzenschnurren in der Nähe kombiniert mit sanften Atemgeräuschen.",
+      "pt": "Um ronronar de gato suave por perto combinado com sons suaves de respiração.",
+      "pl": "Uspokajające mruczenie kota w pobliżu połączone z delikatnym oddechem."
+    },
+    "image": "images/cat_purring_gentle_breathing.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/cat_purring_gentle_breathing@main/cat_purring_gentle_breathing.mp3",
+    "mainColor": "#edd8a4",
+    "accentColor": "#a55a23",
+    "category": "cozyAndCamping",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "cicadas_chirping_summer",
+    "name": {
+      "uk": "Стрекотіння цикад",
+      "en": "Cicadas Chirping",
+      "es": "Canto de Cigarras",
+      "fr": "Chant des Cigales",
+      "de": "Zikaden-Zirpen",
+      "pt": "Canto das Cigarras",
+      "pl": "Śpiew Cykad"
+    },
+    "description": {
+      "uk": "Інтенсивне стрекотіння цикад у спекотний літній день.",
+      "en": "Intense chirping of cicadas on a hot summer day.",
+      "es": "Canto intenso de cigarras en un caluroso día de verano.",
+      "fr": "Chant intense des cigales par une chaude journée d'été.",
+      "de": "Intensives Zirpen der Zikaden an einem heißen Sommertag.",
+      "pt": "Canto intenso das cigarras em um dia quente de verão.",
+      "pl": "Intensywny śpiew cykad w upalny letni dzień."
+    },
+    "image": "images/cicadas_chirping_summer.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/cicadas_chirping_summer@main/cicadas_chirping_summer.mp3",
+    "mainColor": "#f1dda0",
+    "accentColor": "#6f836a",
+    "category": "forestAndNature",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "rushing_mountain_stream",
+    "name": {
+      "uk": "Бурхливий гірський потік",
+      "en": "Rushing Mountain Stream",
+      "es": "Arroyo de Montaña Rápido",
+      "fr": "Torrent de Montagne Impétueux",
+      "de": "Rauschender Gebirgsbach",
+      "pt": "Ribeiro de Montanha Impetuoso",
+      "pl": "Szybki Górski Strumień"
+    },
+    "description": {
+      "uk": "Гучний потік води, що швидко тече через каміння у горах.",
+      "en": "Loud current of water rushing quickly over stones in the mountains.",
+      "es": "Corriente ruidosa de agua fluyendo rápidamente sobre las rocas en las montañas.",
+      "fr": "Courant bruyant d'eau coulant rapidement sur les pierres dans les montagnes.",
+      "de": "Lautes Rauschen von Wasser, das schnell über Steine in den Bergen fließt.",
+      "pt": "Corrente ruidosa de água correndo rapidamente sobre as pedras nas montanhas.",
+      "pl": "Głośny nurt wody швидко płynної через каміння у горах."
+    },
+    "image": "images/rushing_mountain_stream.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/rushing_mountain_stream@main/rushing_mountain_stream.mp3",
+    "mainColor": "#a2cbd8",
+    "accentColor": "#bcce98",
+    "category": "water",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "high_pitched_wind_whistle",
+    "name": {
+      "uk": "Високий свист вітру",
+      "en": "High-Pitched Wind Whistle",
+      "es": "Silbido Agudo del Viento",
+      "fr": "Sifflement Aigu du Vent",
+      "de": "Hohes Windpfeifen",
+      "pt": "Assobio Agudo do Vento",
+      "pl": "Wysoki Gwizd Wiatru"
+    },
+    "description": {
+      "uk": "Сильний, пронизливий свист вітру, що проходить крізь вузькі щілини або дроти.",
+      "en": "Strong, piercing whistle of wind passing through narrow gaps or wires.",
+      "es": "Silbido fuerte y penetrante del viento pasando a través de grietas estrechas o cables.",
+      "fr": "Sifflement fort et perçant du vent passant à travers des espaces étroits ou des fils.",
+      "de": "Starkes, durchdringendes Pfeifen des Windes, das durch enge Spalten oder Drähte zieht.",
+      "pt": "Assobio forte e penetrante do vento passando por fendas estreitas ou fios.",
+      "pl": "Silny, przeszyваючий свист вітру проходячого через вузькі щілини або дроти."
+    },
+    "image": "images/high_pitched_wind_whistle.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/high_pitched_wind_whistle@main/high_pitched_wind_whistle.mp3",
+    "mainColor": "#b8d0d6",
+    "accentColor": "#687e5b",
+    "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "sizzling_food_on_campfire",
+    "name": {
+      "uk": "Шипіння їжі на вогнищі",
+      "en": "Sizzling Food on Campfire",
+      "es": "Comida Chispeando en la Hoguera",
+      "fr": "Nourriture Grésillant sur le Feu",
+      "de": "Zischendes Essen am Lagerfeuer",
+      "pt": "Comida Chiando na Fogueira",
+      "pl": "Skwierczenie Jedzenia na Ognisku"
+    },
+    "description": {
+      "uk": "Апетитне шипіння жиру та інгредієнтів під час готування на відкритому вогні.",
+      "en": "Appetizing sizzling of fat and ingredients while cooking over an open fire.",
+      "es": "Chisporroteo apetitoso de grasa e ingredientes al cocinar a fuego abierto.",
+      "fr": "Grésillement appétissant de graisse et d'ingrédients lors de la cuisson sur un feu ouvert.",
+      "de": "Appetitliches Zischen von Fett und Zutaten beim Kochen über offenem Feuer.",
+      "pt": "Chiado apetitoso de gordura e ingredientes cozinhando em fogo aberto.",
+      "pl": "Apetyczne skwierczenie tłuszczu і інгредієнтів під час готування на відкритому вогні."
+    },
+    "image": "images/sizzling_food_on_campfire.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/sizzling_food_on_campfire@main/sizzling_food_on_campfire.mp3",
+    "mainColor": "#ead8ae",
+    "accentColor": "#ef8546",
+    "category": "cozyAndCamping",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "wolves_howling_night",
+    "name": {
+      "uk": "Виття вовків",
+      "en": "Wolves Howling",
+      "es": "Aullido de Lobos",
+      "fr": "Hurlement de Loups",
+      "de": "Heulende Wölfe",
+      "pt": "Uivo de Lobos",
+      "pl": "Wycie Wilków"
+    },
+    "description": {
+      "uk": "Віддалене та загадкове виття вовків у дикій природі вночі.",
+      "en": "Distant and mysterious howling of wolves in the wild at night.",
+      "es": "Aullido distante y misterioso de lobos en la naturaleza por la noche.",
+      "fr": "Hurlement lointain et mystérieux de loups dans la nature la nuit.",
+      "de": "Fernes und geheimnisvolles Heulen von Wölfen in der Wildnis bei Nacht.",
+      "pt": "Uivo distante e misterioso de lobos na natureza à noite.",
+      "pl": "Odległe і таємниче виття вовків у дикій природі вночі."
+    },
+    "image": "images/wolves_howling_night.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/wolves_howling_night@main/wolves_howling_night.mp3",
+    "mainColor": "#f1ebc7",
+    "accentColor": "#819597",
+    "category": "forestAndNature",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "ice_cracking_on_lake",
+    "name": {
+      "uk": "Тріск льоду на озері",
+      "en": "Ice Cracking on Lake",
+      "es": "Crujido de Hielo en el Lago",
+      "fr": "Craquement de Glace sur le Lac",
+      "de": "Eisknistern auf dem See",
+      "pt": "Estalo de Gelo no Lago",
+      "pl": "Trzask Lodu na Jeziorze"
+    },
+    "description": {
+      "uk": "Унікальні глибокі звуки тріскаючого та дзвінкого льоду на замерзлій водоймі.",
+      "en": "Unique deep sounds of cracking and tinkling ice on a frozen body of water.",
+      "es": "Sonidos profundos y únicos de hielo crujiendo y tintineando en una masa de agua congelada.",
+      "fr": "Sons profonds et uniques de craquements et de tintements de glace sur un plan d'eau gelé.",
+      "de": "Einzigartige tiefe Geräusche von knackendem und klingendem Eis auf einem gefrorenen Gewässer.",
+      "pt": "Sons profundos e únicos de gelo estalando e tilintando em um corpo d'água congelado.",
+      "pl": "Unikalne глибокі звуки тріскаючого та дзвінкого льоду на замерзлій водоймі."
+    },
+    "image": "images/ice_cracking_on_lake.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/ice_cracking_on_lake@main/ice_cracking_on_lake.mp3",
+    "mainColor": "#84b4cf",
+    "accentColor": "#416f94",
+    "category": "water",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "distant_rolling_thunder",
+    "name": {
+      "uk": "Далекий гуркіт грому",
+      "en": "Distant Rolling Thunder",
+      "es": "Trueno Distante Rodante",
+      "fr": "Roulement de Tonnerre Lointain",
+      "de": "Fernes Donnergrollen",
+      "pt": "Estrondo Distante de Trovão",
+      "pl": "Odległy Grzmot"
+    },
+    "description": {
+      "uk": "Низький, густий гуркіт грому, що йде здалеку, без блискавок.",
+      "en": "Low, deep rumble of thunder rolling in the distance, without lightning.",
+      "es": "Retumbar bajo y profundo de truenos rodando en la distancia, sin relámpagos.",
+      "fr": "Grondement bas et profond du tonnerre roulant au loin, sans éclairs.",
+      "de": "Niedriges, tiefes Grollen des Donners in der Ferne, ohne Blitze.",
+      "pt": "Estrondo baixo e profundo de trovões rolando na distância, sem raios.",
+      "pl": "Низький, густий гуркіт грому, що йде здалеку, без блискавок."
+    },
+    "image": "images/distant_rolling_thunder.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/distant_rolling_thunder@main/distant_rolling_thunder.mp3",
+    "mainColor": "#94a5d4",
+    "accentColor": "#5c6b8a",
+    "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "grandfather_clock_ticking",
+    "name": {
+      "uk": "Цокання годинника-маятника",
+      "en": "Grandfather Clock Ticking",
+      "es": "Tictac de Reloj de Abuelo",
+      "fr": "Tic-tac d'Horloge Grand-Père",
+      "de": "Standuhr-Ticken",
+      "pt": "Tique-taque de Relógio de Sala",
+      "pl": "Tykanie Zegara Stojącego"
+    },
+    "description": {
+      "uk": "Рівномірний, заспокійливий цокіт маятника старого годинника у тихій кімнаті.",
+      "en": "The steady, soothing ticking of an old grandfather clock pendulum in a quiet room.",
+      "es": "El tictac constante y relajante del péndulo de un viejo reloj de abuelo en una habitación tranquila.",
+      "fr": "Le tic-tac régulier et apaisant du pendule d'une vieille horloge grand-père dans une pièce calme.",
+      "de": "Das gleichmäßige, beruhigende Ticken des Pendels einer alten Standuhr in einem ruhigen Raum.",
+      "pt": "O tique-taque constante e suave do pêndulo de um relógio antigo em uma sala tranquila.",
+      "pl": "Рівномірний, заспокійливий цокіт маятника старого годинника у тихій кімнаті."
+    },
+    "image": "images/grandfather_clock_ticking.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/grandfather_clock_ticking@main/grandfather_clock_ticking.mp3",
+    "mainColor": "#f8edb8",
+    "accentColor": "#bd7e5c",
+    "category": "cozyAndCamping",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "frogs_croaking_chorus",
+    "name": {
+      "uk": "Хор квакаючих жаб",
+      "en": "Frogs Croaking Chorus",
+      "es": "Coro de Ranas Croando",
+      "fr": "Chœur de Grenouilles Coassantes",
+      "de": "Froschkonzert",
+      "pt": "Coro de Sapos Coaxando",
+      "pl": "Chór Kumkających Żab"
+    },
+    "description": {
+      "uk": "Гучний хор жаб біля ставка або болота у теплу ніч.",
+      "en": "Loud chorus of frogs near a pond or swamp on a warm night.",
+      "es": "Coro fuerte de ranas cerca de un estanque o pantano en una noche cálida.",
+      "fr": "Chœur bruyant de grenouilles près d'un étang ou d'un marais par une nuit chaude.",
+      "de": "Lautes Froschkonzert in der Nähe eines Teiches oder Sumpfes in einer warmen Nacht.",
+      "pt": "Coro alto de sapos perto de um lago ou pântano em uma noite quente.",
+      "pl": "Гучний хор жаб біля ставка або болота у теплу ніч."
+    },
+    "image": "images/frogs_croaking_chorus.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/frogs_croaking_chorus@main/frogs_croaking_chorus.mp3",
+    "mainColor": "#f2eccc",
+    "accentColor": "#586958",
+    "category": "forestAndNature",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "underwater_gurgling",
+    "name": {
+      "uk": "Підводне булькання",
+      "en": "Underwater Gurgling",
+      "es": "Gorgoteo Submarino",
+      "fr": "Gargouillement Sous-marin",
+      "de": "Unterwasser-Gurgeln",
+      "pt": "Borbulhar Subaquático",
+      "pl": "Podwodne Bulgotanie"
+    },
+    "description": {
+      "uk": "Глибокі звуки води, що булькає та перемішується під поверхнею.",
+      "en": "Deep sounds of water gurgling and mixing beneath the surface.",
+      "es": "Sonidos profundos de agua gorgoteando y mezclándose bajo la superficie.",
+      "fr": "Sons profonds de l'eau gargouillant et se mélangeant sous la surface.",
+      "de": "Tiefe Geräusche von Wasser, das unter der Oberfläche gurgelt und sich vermischt.",
+      "pt": "Sons profundos de água borbulhando e se misturando sob a superfície.",
+      "pl": "Глибокі звуки води, що булькає та перемішується під поверхнею."
+    },
+    "image": "images/underwater_gurgling.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/underwater_gurgling@main/underwater_gurgling.mp3",
+    "mainColor": "#4cafb7",
+    "accentColor": "#709a5c",
+    "category": "water",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "building_rain_light_to_heavy",
+    "name": {
+      "uk": "Наростаючий дощ",
+      "en": "Building Rain",
+      "es": "Lluvia Creciente",
+      "fr": "Pluie Croissante",
+      "de": "Anschwellender Regen",
+      "pt": "Chuva Aumentando",
+      "pl": "Narastający Deszcz"
+    },
+    "description": {
+      "uk": "Дощ, який поступово посилюється від легких крапель до інтенсивного шуму.",
+      "en": "Rain that gradually intensifies from light drops to an intense downpour.",
+      "es": "Lluvia que se intensifica gradualmente de gotas ligeras a un aguacero intenso.",
+      "fr": "Pluie qui s'intensifie progressivement, passant de légères gouttes à une averse intense.",
+      "de": "Regen, der allmählich von leichten Tropfen zu einem intensiven Platzregen zunimmt.",
+      "pt": "Chuva que se intensifica gradualmente, de gotas leves a uma chuva forte.",
+      "pl": "Дощ, який поступово посилюється від легких крапель до інтенсивного шуму."
+    },
+    "image": "images/building_rain_light_to_heavy.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/building_rain_light_to_heavy@main/building_rain_light_to_heavy.mp3",
+    "mainColor": "#f4f8ec",
+    "accentColor": "#b59a7a",
+    "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "dry_grass_under_footsteps",
+    "name": {
+      "uk": "Хрускіт сухої трави під ногами",
+      "en": "Dry Grass Rustle under Footsteps",
+      "es": "Crujido de Hierba Seca bajo Pasos",
+      "fr": "Froissement d'Herbe Sèche sous les Pas",
+      "de": "Rascheln von Trockenem Gras unter Schritten",
+      "pt": "Fardo de Grama Seca sob Passos",
+      "pl": "Szmer Suchej Trawy pod Stopami"
+    },
+    "description": {
+      "uk": "Легкий хрускіт та шелест сухої трави або сіна при ходьбі.",
+      "en": "The light crunching and rustling of dry grass or hay when walking.",
+      "es": "El ligero crujido y susurro de hierba seca o heno al caminar.",
+      "fr": "Le léger craquement et bruissement de l'herbe sèche ou du foin en marchant.",
+      "de": "Das leichte Knistern und Rascheln von trockenem Gras oder Heu beim Gehen.",
+      "pt": "O leve estalo e ruído de grama seca ou feno ao caminhar.",
+      "pl": "Легкий хрускіт та шелест сухої трави або сіна при ходьбі."
+    },
+    "image": "images/dry_grass_under_footsteps.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/dry_grass_under_footsteps@main/dry_grass_under_footsteps.mp3",
+    "mainColor": "#e7ddba",
+    "accentColor": "#4d3021",
+    "category": "cozyAndCamping",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "wind_roaring_in_tall_pines",
+    "name": {
+      "uk": "Шум вітру у високих соснах",
+      "en": "Wind Roaring in Tall Pines",
+      "es": "Viento Rugiendo en Pinos Altos",
+      "fr": "Vent Hurlant dans les Grands Pins",
+      "de": "Windrauschen in Hohen Kiefern",
+      "pt": "Vento Uivando em Pinheiros Altos",
+      "pl": "Szum Wiatru w Wysokich Sosnach"
+    },
+    "description": {
+      "uk": "Глибокий, густий шум вітру, що проходить через крони соснового лісу.",
+      "en": "Deep, dense sound of wind passing through the crowns of a pine forest.",
+      "es": "Sonido profundo y denso del viento pasando por las copas de un bosque de pinos.",
+      "fr": "Son profond et dense du vent traversant la canopée d'une forêt de pins.",
+      "de": "Tiefes, dichtes Geräusch des Windes, der durch die Kronen eines Kiefernwaldes zieht.",
+      "pt": "Som profundo e denso do vento passando pelas copas de uma floresta de pinheiros.",
+      "pl": "Глибокий, густий шум вітру, що проходить через крони соснового лісу."
+    },
+    "image": "images/wind_roaring_in_tall_pines.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/wind_roaring_in_tall_pines@main/wind_roaring_in_tall_pines.mp3",
+    "mainColor": "#cfe5d9",
+    "accentColor": "#263e53",
+    "category": "forestAndNature",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "gentle_lake_lapping",
+    "name": {
+      "uk": "Тихий плескіт озера",
+      "en": "Gentle Lake Lapping",
+      "es": "Suave Chapoteo del Lago",
+      "fr": "Clapotis Doux du Lac",
+      "de": "Sanftes Seenplätschern",
+      "pt": "Suave Marulhar do Lago",
+      "pl": "Delikatny Plusk Jeziora"
+    },
+    "description": {
+      "uk": "Дуже тихі, ритмічні звуки води, що плескає об берег озера.",
+      "en": "Very quiet, rhythmic sounds of water lapping against the lake shore.",
+      "es": "Sonidos muy tranquilos y rítmicos del agua chapoteando contra la orilla del lago.",
+      "fr": "Sons très calmes et rythmés de l'eau clapotant contre la rive du lac.",
+      "de": "Sehr ruhige, rhythmische Geräusche von Wasser, das gegen das Seeufer schwappt.",
+      "pt": "Sons muito calmos e rítmicos da água marulhando na margem do lago.",
+      "pl": "Дуже тихі, ритмічні звуки води, що плескає об берег озера."
+    },
+    "image": "images/gentle_lake_lapping.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/gentle_lake_lapping@main/gentle_lake_lapping.mp3",
+    "mainColor": "#7cbac5",
+    "accentColor": "#798c6a",
+    "category": "water",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
+    "id": "dry_wind_and_dust_rustle",
+    "name": {
+      "uk": "Сухий вітер та шелест піску",
+      "en": "Dry Wind and Sand Rustle",
+      "es": "Viento Seco y Susurro de Arena",
+      "fr": "Vent Sec et Bruissement de Sable",
+      "de": "Trockener Wind und Sandrascheln",
+      "pt": "Vento Seco e Ruído de Areia",
+      "pl": "Suchy Wiatr і Szum Piasku"
+    },
+    "description": {
+      "uk": "Висохлий вітер, що проноситься, та легкий шелест піску чи сухого листя.",
+      "en": "A parched wind sweeping by and a light rustle of sand or dry leaves.",
+      "es": "Un viento seco que sopla y un ligero susurro de arena u hojas secas.",
+      "fr": "Un vent sec soufflant et un léger bruissement de sable ou de feuilles sèches.",
+      "de": "Ein trockener Wind, der vorbeizieht, und ein leichtes Rascheln von Sand oder trockenem Laub.",
+      "pt": "Um vento seco soprando e um leve ruído de areia ou folhas secas.",
+      "pl": "Висохлий вітер, що проноситься, та легкий шелест піску чи сухого листя."
+    },
+    "image": "images/dry_wind_and_dust_rustle.webp",
+    "file": "https://cdn.jsdelivr.net/gh/noAporia/dry_wind_and_dust_rustle@main/dry_wind_and_dust_rustle.mp3",
+    "mainColor": "#f5f0d8",
+    "accentColor": "#9f7f53",
+    "category": "atmosphereAndWeather",
+    "sizeMB": 19.5,
+    "version": 1
+  },
+  {
     "id": "rain_and_fireplace_sounds",
     "name": {
       "uk": "Дощ і камін",
@@ -112,25 +560,25 @@
     "version": 1
   },
   {
-  "id": "nightingale_sounds",
-  "name": {
-    "uk": "Спів солов'я",
-    "en": "Nightingale Sounds",
-    "es": "Sonidos de Ruiseñor",
-    "fr": "Chants du Rossignol",
-    "de": "Nachtigall-Klänge",
-    "pt": "Sons de Rouxinol",
-    "pl": "Śpiew Słowika"
-  },
-  "description": {
-    "uk": "Мелодійний спів солов'я для релаксації",
-    "en": "Melodic nightingale singing for relaxation",
-    "es": "Canto melódico del ruiseñor para la relajación",
-    "fr": "Chant mélodieux du rossignol pour la détente",
-    "de": "Melodischer Nachtigallengesang zur Entspannung",
-    "pt": "Canto melódico do rouxinol para relaxamento",
-    "pl": "Melodyjny śpiew słowika do relaksu"
-  },
+    "id": "nightingale_sounds",
+    "name": {
+      "uk": "Спів солов'я",
+      "en": "Nightingale Sounds",
+      "es": "Sonidos de Ruiseñor",
+      "fr": "Chants du Rossignol",
+      "de": "Nachtigall-Klänge",
+      "pt": "Sons de Rouxinol",
+      "pl": "Śpiew Słowika"
+    },
+    "description": {
+      "uk": "Мелодійний спів солов'я для релаксації",
+      "en": "Melodic nightingale singing for relaxation",
+      "es": "Canto melódico del ruiseñor para la relajación",
+      "fr": "Chant mélodieux du rossignol pour la détente",
+      "de": "Melodischer Nachtigallengesang zur Entspannung",
+      "pt": "Canto melódico do rouxinol para relaxamento",
+      "pl": "Melodyjny śpiew słowika do relaksu"
+    },
     "image": "images/nightingale_sounds.webp",
     "file": "https://cdn.jsdelivr.net/gh/noAporia/nightingale_sounds@main/nightingale_sounds.mp3",
     "mainColor": "#ebd7a4",
